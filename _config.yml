@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:              Fachinformatiker-Forum Fulda
-logo:               https://github.com/joergre/fachinformatiker-forum/blob/gh-pages/logo.jpg?raw=true# Logo image URL
-email:              joerg@reuter.sc
-description:        Alles über IT.
+title:              Blog tập nuôi thỏ
+logo:               https://github.com/greedytofu/fachinformatiker-forum/blob/gh-pages/logo.jpg?raw=true# Logo image URL
+email:              tiep@tofu.am
+description:        Tofu nuôi thỏ
 baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'http://fachinformatiker-fulda.de' # The base hostname & protocol for your site
-github_username:    joergre
-twitter_username:   joergreu
-instagram_username: jorgreuter
+url:                'https://tofu.am' # The base hostname & protocol for your site
+github_username:    tiep
+twitter_username:   tiep
+instagram_username: tiep
 
 markdown:  kramdown
 permalink: pretty
@@ -50,10 +50,10 @@ defaults:
 # Authors
 authors:
   ahmad:
-    name:             Jörg Reuter
-    bio:              Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
+    name:             Tập nuôi thỏ
+    bio:              Blog viết về nuôi thỏ và hướng dẫn cách làm trại thỏ hay phương pháp nuôi thỏ tốt.
     gravatar:         https://en.gravatar.com/forsthaus
     email:            joerg@reuter.sc
-    website:          https://joergre.github.io/fachinformatiker-forum/
-    github_username:  joergre
-    twitter_username: joergereu
+    website:          https://tofu.am
+    github_username:  tiep
+    twitter_username: tiep
